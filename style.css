@@ -4,19 +4,19 @@ body
 
 #header {background-color:#FF6699;
         width:100%;
-	    min-height:100px;       
-	    }
+	min-height:100px;       
+	}
 	
 #leftcolumn {background-color:#66FFCC;
-		    width:25%;
+	     width:25%;
             height:800px;
-		    float:left;
+    	    float:left;
 		    }
 #maincontent {background-color:#FFCCCC;
-			 width:75%;
+	     width:75%;
              min-width:600px;
-			 height:800px;
-			 float:left;
+	      height:800px;
+	     float:left;
              overflow:auto;
 			 }
 #footer	{background-color:#FF6699;
