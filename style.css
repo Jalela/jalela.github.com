@@ -3,19 +3,21 @@ body
 {background-color:#505050 }
 
 #header {background-color:#FF6699;
-      width:100%;
-	    min-height:100px;
+        width:100%;
+	    min-height:100px;       
 	    }
 	
 #leftcolumn {background-color:#66FFCC;
-		    width:33%;
-		    min-height:1000px;
+		    width:25%;
+            height:800px;
 		    float:left;
 		    }
 #maincontent {background-color:#FFCCCC;
-			 width:67%;
-			 min-height:1000px;
+			 width:75%;
+             min-width:600px;
+			 height:800px;
 			 float:left;
+             overflow:auto;
 			 }
 #footer	{background-color:#FF6699;
 		width:100%;
