@@ -9,13 +9,13 @@ body
 	
 #leftcolumn {background-color:#66FFCC;
 	     width:25%;
-            height:800px;
+            height:900px;
     	    float:left;
 		    }
 #maincontent {background-color:#FFCCCC;
 	     width:75%;
              min-width:600px;
-	      height:800px;
+	      height:900px;
 	     float:left;
              overflow:auto;
 			 }
