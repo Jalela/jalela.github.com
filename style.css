@@ -4,7 +4,7 @@ body
 
 #header {background-color:#FF6699;
         width:100%;
-	min-height:100px;       
+    min-height:100px;       
 	}
 	
 #leftcolumn {background-color:#66FFCC;
@@ -23,4 +23,7 @@ body
 		width:100%;
 		min-height:100px;
 		clear:both}
+
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-7/oth639.cur), progress !important;} /* End http://www.cursors-4u.com */
 
